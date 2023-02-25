@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3404f3-c4fb-4623-b82f-f1fa8381b6c3" name="Changes" comment="" />
+    <list default="true" id="dc3404f3-c4fb-4623-b82f-f1fa8381b6c3" name="Changes" comment="add jar log4j">
+      <change afterPath="$PROJECT_DIR$/src/config/ConfigDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermesFX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hermesFX.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ConnectionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ConnetcionDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ConstruirBd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ConstruirBd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/DespesaDao.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +42,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/marcos/workspace/hermesFX"
+    "last_opened_file_path": "/home/marcos/workspace/hermesFX/lib/log4j.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,8 +57,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677300631104</updated>
-      <workItem from="1677300632470" duration="317000" />
+      <workItem from="1677300632470" duration="1698000" />
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add jar log4j" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jar log4j" />
   </component>
 </project>

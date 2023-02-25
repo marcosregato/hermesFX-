@@ -89,8 +89,9 @@ public class ConstruirBd {
 		} catch (Exception e) {
 			//TODO melhor a mensagem de erro
 			logger.info(e.getStackTrace());
-			return false;
+
 		}
-		
+		return false;
+
 	}
 }

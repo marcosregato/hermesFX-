@@ -7,5 +7,32 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/miglayout-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/miglayout-swing.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/org.eclipse.swt-3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/sqlite-jdbc-3.36.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/lib/miglayout-core-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/miglayout-swing-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/miglayout-core-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/miglayout-swing-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
