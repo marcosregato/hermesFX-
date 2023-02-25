@@ -1,0 +1,62 @@
+.root {
+	-fx-base: #3e3f40; 
+	-fx-accent: #0096c9 ;
+	-fx-default-button: #abd8ed ;
+	-fx-focus-color: #039ed3;
+	-fx-faint-focus-color: #039ed322;
+	-fx-focused-text-base-color : ladder(
+	-fx-selection-bar,
+	-fx-light-text-color 45%,
+	-fx-dark-text-color 46%,
+	-fx-dark-text-color 59%,
+	-fx-mid-text-color 60%
+	);
+	-fx-focused-mark-color : -fx-focused-text-base-color ;  
+	-fx-font-family: verdana;  
+}
+
+#fundoPreto {
+	-fx-background-color: #9da8b0;
+	-fx-background-size: 1200 900;
+	-fx-background-radius: 30;
+	-fx-border-radius: 30;
+	-fx-border-width:5;
+	-fx-border-color: #424141;
+	-fx-opacity: 0.4;
+	
+}
+
+.label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: black;
+   
+}
+
+#btSalvar {
+	-fx-background-color:
+	#3c7fb1,
+	linear-gradient(#fafdfe, #e8f5fc),
+	linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);
+	-fx-background-insets: 0,1,2;
+	-fx-background-radius: 10px;
+	-fx-padding: 3 30 3 30;
+	-fx-text-fill: black;
+	-fx-font-size: 14px;
+	
+	}
+		
+#btCancelar {
+	-fx-background-color:
+	#3c7fb1,
+	linear-gradient(#fafdfe, #e8f5fc),
+	linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);
+	-fx-background-insets: 0,1,2;
+	-fx-background-radius: 10px;
+	-fx-padding: 3 30 3 30;
+	-fx-text-fill: black;
+	-fx-font-size: 14px;
+	}
+	
+	
+	
