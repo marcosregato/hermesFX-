@@ -4,8 +4,6 @@ import java.io.File;
 
 import org.apache.log4j.Logger;
 
-import dao.ConstruirBd;
-
 public class RunApplication {
 
 	

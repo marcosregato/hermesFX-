@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3404f3-c4fb-4623-b82f-f1fa8381b6c3" name="Changes" comment="add jar log4j">
-      <change afterPath="$PROJECT_DIR$/src/config/ConfigDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint-state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hermesFX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hermesFX.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/ConnectionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ConnetcionDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/ConstruirBd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ConstruirBd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/DespesaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ConfigDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/ConfigDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/RunApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/RunApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ConnetcionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/ConnetcionDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ConstruirBd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/ConstruirBd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +48,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/marcos/workspace/hermesFX/lib/log4j.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,12 +65,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677300631104</updated>
-      <workItem from="1677300632470" duration="1698000" />
+      <workItem from="1677300632470" duration="4558000" />
+      <workItem from="1677305769981" duration="1721000" />
     </task>
+    <task id="LOCAL-00001" summary="add jar log4j">
+      <created>1677302380741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677302380741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add jar log4j" />
     <option name="LAST_COMMIT_MESSAGE" value="add jar log4j" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
